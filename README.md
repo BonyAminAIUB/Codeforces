@@ -8,11 +8,13 @@ The main purpose of this repository is to improve my **problem-solving skills**,
 ## 📌 Contents
 - Beginner to intermediate level problems
 - Topics include:
+  - Brute Force
   - Implementation
   - Math
   - Greedy
+  - Strings
   - Basic Data Structures
-  - STL usage
+  - STL (Standard Template Library)
 
 ---
 
@@ -25,8 +27,15 @@ The main purpose of this repository is to improve my **problem-solving skills**,
 
 ## 🎯 Goal
 - Practice competitive programming regularly  
-- Learn efficient algorithms and clean coding  
-- Track my progress over time
+- Learn efficient algorithms and clean coding
+- Learn how to optimize brute-force solutions 
+- Prepare for contests and technical interviews
+
+---
+
+## 📈 Progress Tracking
+- Problems range from **beginner to intermediate** level  
+- Solutions are updated as I learn better or more optimized approaches
 
 ---
 
